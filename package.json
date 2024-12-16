@@ -1,0 +1,23 @@
+{
+  "name": "daria_electron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adonisote/daria_electron.git"
+  },
+  "author": "daria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adonisote/daria_electron/issues"
+  },
+  "homepage": "https://github.com/adonisote/daria_electron#readme",
+  "description": "",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
